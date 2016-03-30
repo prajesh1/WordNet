@@ -1,4 +1,4 @@
-package wordnet;
+
 
 
 public class Synset {
